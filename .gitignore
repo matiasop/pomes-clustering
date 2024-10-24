@@ -1,2 +1,4 @@
 .DS_Store
 venv
+poems_with_clusters.csv
+poems_with_embeddings.csv
